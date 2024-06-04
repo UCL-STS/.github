@@ -1,4 +1,4 @@
-Repositories from staff and student researchers at the [Department of Science and Technology Studies](https://www.ucl.ac.uk/sts), [UCL](https://www.ucl.ac.uk). If you are a student or staff at UCL, contact [Cian](http://github.com/cianodonovan) to get involved. 
+Repositories from staff and student researchers at the [Department of Science and Technology Studies](https://www.ucl.ac.uk/sts), [UCL](https://www.ucl.ac.uk). If you are a student or staff at UCL STS, contact [Cian](http://github.com/cianodonovan) to get involved. 
 <!--
 
 **Here are some ideas to get you started:**
